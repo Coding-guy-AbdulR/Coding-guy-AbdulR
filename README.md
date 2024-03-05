@@ -49,7 +49,7 @@ I'm Abdul Rehman, a software developer with over 1 years of experience in web ap
 
 ## Contact 📫
 * Email: rehman.rx421@gmail.com
-* Linkedin: 
+* Linkedin: https://www.linkedin.com/in/abdul-r-1608042b8/
 
 ## 📊 GitHub Stats:
 
